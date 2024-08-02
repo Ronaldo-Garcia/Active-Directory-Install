@@ -82,3 +82,5 @@ The DC will lose connection.
 - Username: mydomain.com\Labuser</a>
 
 - Password: Password1</a>
+
+Click [here](https://github.com/Ronaldo-Garcia/Configuring-Active-Directory) to move on to part 2 of this tutorial!
